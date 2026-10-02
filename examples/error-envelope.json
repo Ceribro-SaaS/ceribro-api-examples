@@ -1,0 +1,13 @@
+{
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "message": "The request is invalid.",
+    "details": [
+      {
+        "field": "name",
+        "reason": "required"
+      }
+    ],
+    "requestId": "req-example-001"
+  }
+}

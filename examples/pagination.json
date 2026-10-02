@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "cus-001"
+    },
+    {
+      "id": "cus-002"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 2,
+    "total": 12,
+    "hasNext": true
+  }
+}
